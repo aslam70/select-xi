@@ -20,7 +20,7 @@ function App() {
       <Navbar availableBalance={availableBalance}></Navbar>
       <div className="flex justify-between items-center max-w-[83%] mx-auto mt-8">
         <h2 className=" font-bold">
-          {toggle === true ? "Available Players" :  `Selected Players (${pursesPlayers.length}/6)`}
+          {toggle === true ? "Available Players" :`Selected Players (${pursesPlayers.length}/6)` }
         </h2>
         <div>
           <button
@@ -33,7 +33,7 @@ function App() {
             onClick={() => setToggle(false)}
             className={`py-2 px-3 border-2 border-l-0 border-gray-300 rounded-r-xl ${toggle === false ? "bg-[#E7FE29]" : ""}`}
           >
-            Selected({pursesPlayers.length})
+            Selected(0)
           </button>
         </div>
       </div>
