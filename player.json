@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/MyTjkhbS/1736411449719-Shakib-Al-Hasan.webp",
+    "name": "Shakib Al Hasan",
+    "nationality": "Bangladesh",
+    "skill": "Allrounder",
+    "rating": 92,
+    "position": "Left Hand Bat",
+    "price": 15000000
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/7xN02g45/download.jpg",
+    "name": "Tamim Iqbal",
+    "nationality": "Bangladesh",
+    "skill": "Batting",
+    "rating": 88,
+    "position": "Left Hand Bat",
+    "price": 12000000
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/vCnSpkyW/download-1.jpg",
+    "name": "Mushfiqur Rahim",
+    "nationality": "Bangladesh",
+    "skill": "Batting",
+    "rating": 87,
+    "position": "Right Hand Bat",
+    "price": 11000000
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/0RMTTB5M/download-2.jpg",
+    "name": "Mustafizur Rahman",
+    "nationality": "Bangladesh",
+    "skill": "Bowling",
+    "rating": 89,
+    "position": "Right Hand Bat",
+    "price": 13000000
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/nM0sVTQN/download-3.jpg",
+    "name": "Virat Kohli",
+    "nationality": "India",
+    "skill": "Batting",
+    "rating": 95,
+    "position": "Right Hand Bat",
+    "price": 20000000
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/xKxB16pC/download-4.jpg",
+    "name": "Rohit Sharma",
+    "nationality": "India",
+    "skill": "Batting",
+    "rating": 93,
+    "position": "Right Hand Bat",
+    "price": 18000000
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/pjYzN8R2/download-5.jpg",
+    "name": "Babar Azam",
+    "nationality": "Pakistan",
+    "skill": "Batting",
+    "rating": 94,
+    "position": "Right Hand Bat",
+    "price": 19000000
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/j96Q31Rx/download-6.jpg",
+    "name": "Shaheen Afridi",
+    "nationality": "Pakistan",
+    "skill": "Bowling",
+    "rating": 91,
+    "position": "Right Hand Bat",
+    "price": 14000000
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/d07f8mW3/download-8.jpg",
+    "name": "David Warner",
+    "nationality": "Australia",
+    "skill": "Batting",
+    "rating": 90,
+    "position": "Left Hand Bat",
+    "price": 16000000
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/gLkg8SnM/download-7.jpg",
+    "name": "Pat Cummins",
+    "nationality": "Australia",
+    "skill": "Bowling",
+    "rating": 93,
+    "position": "Right Hand Bat",
+    "price": 17000000
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/Vph0shyj/download-9.jpg",
+    "name": "Jos Buttler",
+    "nationality": "England",
+    "skill": "Batting",
+    "rating": 91,
+    "position": "Right Hand Bat",
+    "price": 15000000
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/bjX7Sf5W/images.jpg",
+    "name": "Ben Stokes",
+    "nationality": "England",
+    "skill": "Allrounder",
+    "rating": 92,
+    "position": "Left Hand Bat",
+    "price": 16000000
+  }
+]

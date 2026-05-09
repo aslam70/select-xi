@@ -4,7 +4,8 @@ import { ToastContainer, } from 'react-toastify';
 import { Suspense, useState } from "react";
 import AvailablePlayers from "./Components/AvailablePlayers";
 import SelectedPlayers from "./Components/SelectedPlayers";
-const fetchPlayers = fetch("../public/player.json").then((res) => res.json());
+// const fetchPlayers = fetch("../public/player.json").then((res) => res.json());
+const fetchPlayers = fetch("/player.json").then((res) => res.json());
 function App() {
   const [toggle, setToggle] = useState(true);
   const [availableBalance, setAvailableBalance] = useState(60000000);
